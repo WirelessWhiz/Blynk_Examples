@@ -4,6 +4,7 @@ some examples of pushing the raspberry pi data to blynk IoT
 Blynk is a popular and user-friendly Internet of Things (IoT) platform that enables individuals, makers, and developers to create and control IoT projects easily. It simplifies the process of building IoT applications, mobile apps, and hardware interactions, making it accessible to both beginners and experienced developers.
 ![architecture](https://github.com/WirelessWhiz/Blynk_Examples/assets/141990622/1a75d1d7-7684-465a-b121-903dbd96d240)
 
+![Blynk-Video-Stream-800x320](https://github.com/WirelessWhiz/Blynk_Examples/assets/141990622/21d07dee-3439-4ccd-9fcb-099777523bf2)
 
 
 
